@@ -1,6 +1,11 @@
 Let My Rabbits Carry Your Messages
 ==================================
 
+![First Slide Thumbnail](thumbnail.png)
+
+About
+-----
+
 Introduction to RabbitMQ message
 broker. Why and when to use RabbitMQ?
 What are the typical use-cases
